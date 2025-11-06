@@ -224,8 +224,9 @@ else:  # Methodology & Insights
     """)
 
 # Footer
+# Footer
 st.markdown("---")
 st.markdown("""
 **Built with Python • Data from Cricsheet • Win Probability Model by Burt Louw**  
-*Connect with me on LinkedIn to discuss sports analytics!*
+*Connect with me on https://www.linkedin.com/in/burt-louw-9931ba50/ to discuss sports analytics!*
 """)
